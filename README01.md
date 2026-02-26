@@ -4,7 +4,7 @@ Sesión 1 — Análisis Forense de la Interfaz
 
 Fecha: 19/02/2026
 
-CONCEPTOS CLAVE:
+
 En esta sesión trabajamos la idea central de que “la interfaz es el sistema”, es decir, para el usuario no existe el algoritmo ni la arquitectura interna, solo la interfaz visible .
 
 También vimos:
