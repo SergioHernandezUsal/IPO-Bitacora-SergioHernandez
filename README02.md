@@ -1,3 +1,5 @@
+# IPO-Bitacora-SergioHernandez S2
+
 Sesión 2 — Anatomía de la Interacción y Análisis Forense
 
 Fecha: 26/02/2026
