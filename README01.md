@@ -9,8 +9,8 @@ En esta sesión trabajamos la idea central de que “la interfaz es el sistema�
 
 También vimos:
 
-  Impacto del mal diseño: puede afectar a la productividad, seguridad e incluso a procesos críticos (ejemplo de la papeleta de Florida 2000).
-  ROI de la usabilidad: invertir en diseño no es un gasto, sino una inversión (ratio 1:100) .
+  Impacto del mal diseño: puede afectar a la productividad, seguridad e incluso a procesos críticos.
+  ROI de la usabilidad: invertir en diseño no es un gasto, sino una inversión.
   Visibilidad: si el usuario no puede ver el estado del sistema, no existe.
   Affordance (comprensión intuitiva): los objetos deben “decir” cómo se usan.
   Mapeo natural: relación lógica entre control y efecto.
