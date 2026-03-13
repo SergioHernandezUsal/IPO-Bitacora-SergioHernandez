@@ -1,6 +1,6 @@
 # IPO-Bitacora-SergioHernandez S1
 
-Sesión 1 — Análisis Forense de la Interfaz
+Sesión 1 - Análisis Forense de la Interfaz
 
 Fecha: 19/02/2026
 
