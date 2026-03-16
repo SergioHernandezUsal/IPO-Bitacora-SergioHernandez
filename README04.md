@@ -20,6 +20,7 @@ Nos quedaria algo así:
 
 <img width="277" height="674" alt="image" src="https://github.com/user-attachments/assets/7490e870-c881-4c1e-9179-4a5e1ddfc13c" />
 
+Además se sigue un orden lógico, pidiendo primero los datos del usuario segudo de la dirección y metodo de envio y por último la forma de pago.
 
 
 
