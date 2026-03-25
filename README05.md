@@ -1,6 +1,7 @@
 # IPO-Bitacora-SergioHernandez S5
 
 Sesión 5 - Memoria y Atención
+
 Fecha: 19/03/2026
 
 En esta sesión vimos cómo funciona la atención y la memoria sensorial.
