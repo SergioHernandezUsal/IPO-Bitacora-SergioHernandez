@@ -1,6 +1,7 @@
 # IPO-Bitacora-SergioHernandez S4
 
 Sesión 4 - Percepción Visual
+
 Fecha: 12/03/2026
 
 En esta sesión continuamos con el Tema 2, donde vimos cómo las capacidades cognitivas del usuario influyen en el diseño de interfaces. La idea principal es que el sistema debe adaptarse a cómo las personas perciben y procesan la información.
