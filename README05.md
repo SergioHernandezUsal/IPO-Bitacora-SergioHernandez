@@ -17,7 +17,7 @@ En general, la idea es que la memoria del usuario es limitada, así que el dise�
 Como activida de esta semana vamos a realizar una Auditoría de memoria sobre una app bancaria:
 <img width="533" height="291" alt="image" src="https://github.com/user-attachments/assets/778dfa4b-c1ca-4e20-9075-1cf9e0284c3b" />
 
-Para esta actividad he analizado la app del banco Santander:
+Para esta tarea he analizado la app del banco santader.
 
 <img width="300" height="1200" alt="image" src="https://github.com/user-attachments/assets/dc0e98e7-2a0f-49ac-8df2-f7bb42f23db1" />
 
