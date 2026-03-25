@@ -15,6 +15,7 @@ Además, vimos ejemplos curiosos sobre la atención, como los trucos de magia o 
 En general, la idea es que la memoria del usuario es limitada, así que el diseño tiene que ponérselo fácil, reduciendo esfuerzo y haciendo que todo sea lo más claro posible.
 
 Como activida de esta semana vamos a realizar una Auditoría de memoria sobre una app bancaria:
+
 <img width="533" height="291" alt="image" src="https://github.com/user-attachments/assets/778dfa4b-c1ca-4e20-9075-1cf9e0284c3b" />
 
 Para esta tarea voy a analizar la app del banco santader.
