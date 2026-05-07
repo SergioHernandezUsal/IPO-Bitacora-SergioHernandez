@@ -21,7 +21,7 @@ Como activida de esta semana vamos a realizar una Auditoría de memoria sobre un
 
 Para esta tarea voy a analizar la app del banco santader.
 
-<img width="300" height="1200" alt="image" src="https://github.com/user-attachments/assets/dc0e98e7-2a0f-49ac-8df2-f7bb42f23db1" />
+<img width="300" height="500" alt="image" src="https://github.com/user-attachments/assets/dc0e98e7-2a0f-49ac-8df2-f7bb42f23db1" />
 
 Paso 1: Prótesis de memoria
 La app muestra información clave como el saldo y accesos rápidos (Bizum, enviar dinero), lo que permite reconocer sin tener que recordar.
